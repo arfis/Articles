@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Articles</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dialog_picture">Choose a picture from</string>
+    <string name="dialog_picture_galery">Choose from galery</string>
+    <string name="dialog_picture_camera">Take a photo</string>
+
+</resources>
